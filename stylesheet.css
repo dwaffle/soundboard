@@ -1,0 +1,33 @@
+button{
+    align-self: center;
+}
+
+.Buttons{
+   align-items: center; 
+   margin: 2px;
+   color: blue;
+   text-align: center;
+   
+}
+
+button{
+    margin: 1px;
+}
+
+h1 {
+    align-items: center;
+    font-size: 24px;
+    text-align: center;
+}
+
+.FirstRow {
+    margin-top: 0.025%;
+}
+
+.FifthRow{
+    margin-top: 0.025%;
+}
+
+.SeventhRow{
+    margin-top: 5%;
+}
